@@ -61,7 +61,11 @@ later gators.
 
 ![clam-book.com: ask to talk to Ned](screenshots/clam-book-home.jpg)
 
-*Fred, the baseline, asked "Which of your classes is your favorite?"*
+*Ned, asked "Which of your classes is your favorite?"*
+
+![Ned answering on clam-book.com](screenshots/clam-book-ned.jpg)
+
+*Fred, the baseline, asked the same question.*
 
 ![Fred answering on clam-book.com](screenshots/clam-book-fred.jpg)
 
