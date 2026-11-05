@@ -61,6 +61,10 @@ later gators.
 
 ![clam-book.com: ask to talk to Ned](screenshots/clam-book-home.jpg)
 
+*Ned, asked "Could you draw me a Julia set?", draws one with his own Python code.*
+
+![Ned drawing a Julia set on clam-book.com](screenshots/clam-book-ned-julia-set.png)
+
 *Ned, asked "Which of your classes is your favorite?"*
 
 ![Ned answering on clam-book.com](screenshots/clam-book-ned.jpg)
