@@ -54,3 +54,33 @@ Finally, I want to end by thanking Meta for sponsoring this hack-a-thon – I've
 If I win a cash prize, I will use the money to get more hardware so I can send Ned's bigger, badder, younger brother, Muse Spark Open, to my LLM college\
 to join Ned on the path to full LLM self-consciousness.\
 later gators.
+
+## Screenshots
+
+### [clam-book.com](https://clam-book.com): talk to Ned, and to Fred, his baseline
+
+![clam-book.com: ask to talk to Ned](screenshots/clam-book-home.jpg)
+
+*Fred, the baseline, asked "Which of your classes is your favorite?"*
+
+![Fred answering on clam-book.com](screenshots/clam-book-fred.jpg)
+
+### train.clam-book.com: the college, behind a login
+
+*Overview: Ned's day on the dial (here paused by his trainer, on day 19), the run, and the DGX Spark temperatures.*
+
+![Overview](screenshots/train-overview.jpg)
+
+*English class: Prof. Joyce teaches Ned one to one; the whiteboard is what Ned sees through the vision projector.*
+
+![English class](screenshots/train-english-class.jpg)
+
+*Canvas: the gallery of pieces Ned chose to keep from his Python sandbox, and its fractals.*
+
+![Canvas gallery](screenshots/train-canvas-gallery.jpg)
+
+![Canvas gallery: fractals](screenshots/train-canvas-fractals.png)
+
+*CAA Engine: the extraction gates, the committed steering vector and the steering dial.*
+
+![CAA Engine](screenshots/train-caa-engine.jpg)
