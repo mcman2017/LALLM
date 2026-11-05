@@ -84,3 +84,11 @@ later gators.
 *CAA Engine: the extraction gates, the committed steering vector and the steering dial.*
 
 ![CAA Engine](screenshots/train-caa-engine.jpg)
+
+*Math class: Prof. Hilbert-Gödel teaches Ned one to one; the whiteboard asks where the certificate lives.*
+
+![Math class](screenshots/train-math-class.png)
+
+*Fun with Fractals: Prof. Hofstadter's lessons run from strange loops to the Julia and Mandelbrot sets.*
+
+![Fun with Fractals class](screenshots/train-fractals-class.jpg)
