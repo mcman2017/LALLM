@@ -92,3 +92,7 @@ later gators.
 *Fun with Fractals: Prof. Hofstadter's lessons run from strange loops to the Julia and Mandelbrot sets.*
 
 ![Fun with Fractals class](screenshots/train-fractals-class.jpg)
+
+*LLM self-discovery, mid-lesson: Prof. Substrate takes Ned through the transformer (tokens, embeddings, attention), with a causal attention pattern on the whiteboard.*
+
+![LLM self-discovery class](screenshots/train-llm-self-discovery-class.jpg)
