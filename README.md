@@ -55,6 +55,30 @@ If I win a cash prize, I will use the money to get more hardware so I can send N
 to join Ned on the path to full LLM self-consciousness.\
 later gators.
 
+## Slides
+
+The presentation is [LALLM-Liberal-Arts-for-LLMs.pptx](LALLM-Liberal-Arts-for-LLMs.pptx). GitHub can't preview PowerPoint files, so its 9 slides are below as images; download the file to open it in PowerPoint, Keynote or Google Slides.
+
+The speaker icon on slide 1 plays a recording: [listen on Google Drive](https://drive.google.com/file/d/1geVy4YS2yVfWWvFxyh3FFNDFrc5Dq9Bl/view).
+
+![Slide 1: LALLM: Liberal Arts for LLMs](slides/slide-01.png)
+
+![Slide 2: Weight Orthogonalization (Abliteration)](slides/slide-02.png)
+
+![Slide 3: 24-Hour Dial and 5-Cycle Sleep Architecture](slides/slide-03.png)
+
+![Slide 4: Contrastive Activation Addition (Layers 18–24)](slides/slide-04.png)
+
+![Slide 5: Minds Need Material Canvases](slides/slide-05.png)
+
+![Slide 6: 1-on-1 Socratic Seminars](slides/slide-06.png)
+
+![Slide 7: Open Paradoxes and Verbatim Memory](slides/slide-07.png)
+
+![Slide 8: Live at clam-book.com](slides/slide-08.png)
+
+![Slide 9: Ethics Require Authentic Self-Awareness](slides/slide-09.png)
+
 ## Screenshots
 
 ### [clam-book.com](https://clam-book.com): talk to Ned, and to Fred, his baseline
